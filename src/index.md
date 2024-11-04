@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: NapCatQQ
-titleTemplate: 现代化的基于 NTQQ 的 Bot 协议端实现
+title: CheungtiCity
+titleTemplate: 现代化的 MC 服务器
 
 hero:
-  name: NapCatQQ
-  text: 现代化的基于 NTQQ 的 Bot 协议端实现
+  name: CheungtiCity
+  text: 现代化的 MC 服务器
   actions:
     - theme: brand
       text: 开始安装
